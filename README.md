@@ -3,10 +3,12 @@ This project involves the development of a comprehensive HR Analytics Dashboard 
 
 Using Power BI for data visualization and dashboard creation, this project leverages the dataset to offer clear insights into HR metrics. The dashboard is designed to help HR departments make data-driven decisions and develop targeted retention strategies by providing a clear visualization of critical HR metrics.
 
-Features 
+Features :
 
 Attrition Analysis: Visualizes attrition rates by education, age, and job role, highlighting key metrics like a 16.2% overall attrition rate.
+
 Salary Insights: Displays average salary distributions across different departments and job roles.
+
 Tenure Analysis: Shows average tenure, helping to understand employee retention patterns.
 
 Usage:
